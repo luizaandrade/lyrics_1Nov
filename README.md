@@ -2,8 +2,8 @@
 Using crowd sourcing to make the greatest song lyrics of all time even greater!
 
 # Todo today
-1. **Clone** repository to your computer.
-1. Create a **branch** that you name after yourself.
+1. In the browswer, create a **branch** that you name after yourself.
+1. **Clone** repository to your computer using GitHub Desktop. (Do not create a fork!)
 1. Go to GitHub Desktop and **checkout** your branch.
 1. Add a textfile with the lyrics to your favourite song and **commit** in GitHub Desktop. Sync this commit to the cloud.
 1. Checkout the **master branch** in GitHub Desktop. Can you find the file that you just created?
